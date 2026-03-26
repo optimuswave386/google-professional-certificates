@@ -1,0 +1,16 @@
+---
+author: "robot"
+date: "2024-09-25"
+output: html_document
+---
+
+## Setting up my environment
+Notes: setting up and installing packages
+
+```{r loading packages}
+library("pak")
+library("palmerpenguins")
+```
+
+
+

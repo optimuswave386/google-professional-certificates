@@ -1,0 +1,4 @@
+name, phone, role
+Joe, 123-4567, president
+hamatoyoshi, 666-6666, character
+styles, 999-9876, none
